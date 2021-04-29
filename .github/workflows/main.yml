@@ -2,6 +2,7 @@ name: build
 
 on: [push]
 
+
 env:
   UPLOAD_USER_FIRMWARE: true
 
